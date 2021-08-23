@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OngDev
+- 👀 I’m interested in JS, Python, Go
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Thailand
